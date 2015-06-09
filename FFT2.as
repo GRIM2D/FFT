@@ -1,6 +1,5 @@
 package
 {
-	import flash.display.Graphics;
 	import flash.utils.ByteArray;
 	
 	import __AS3__.vec.Vector;
@@ -11,6 +10,7 @@ package
 	 * Released under the MIT License
 	 *
 	 * Copyright (c) 2010 Gerald T. Beauregard
+	 * Copyright (c) 2015 Shakhzod Ikromov
 	 *
 	 * Permission is hereby granted, free of charge, to any person obtaining a copy
 	 * of this software and associated documentation files (the "Software"), to
